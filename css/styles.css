@@ -1,0 +1,123 @@
+body{
+  text-align: center;
+  color:#630A10;
+  font-size: 1.5rem;
+}
+a{
+  text-decoration: none;
+  color:#630A10;
+}
+a:hover{
+  color:#911F27;
+}
+
+h1,h2,h3{
+  font-family: "DM Serif Display"
+}
+
+.barra{
+  background-color: #630A10;
+  color:#FCF0C8;
+  height: 3%;
+  font-size: 1rem;
+}
+
+.barra a{
+  color:#FCF0C8;
+  text-decoration: none;
+}
+
+.barra a:hover{
+  color:#FACE7F;
+}
+#carouselEx{
+  height:100px;
+}
+
+.fondo{
+  background-image: url(../images/fondo.jpg);
+  padding:  15% 30%;
+  background-position: center;
+  background-size: cover;
+  margin:0;
+}
+.no-bullets{
+  list-style-type: none;
+}
+.row{
+  padding:  0;
+}
+
+.col{
+  padding: 2% 5%;
+}
+
+.titulo{
+  background-color: #630A10;
+  color:#FCF0C8;
+  padding: 5%;
+  border:solid #FACE7F 7px;
+  border-radius: 50px;
+}
+
+.sec-color{
+  background-color: #911F27;
+  color:#FCF0C8;
+  padding: 3% 20%;
+}
+
+.sec-bco{
+  background-color: #FCF0C8;
+  color:#911F27;
+  padding: 3% 15%;
+}
+
+.linea{
+  border-top: #FCF0C8  solid 10px;
+  opacity:1;
+  margin:30px auto 30px auto;
+  width:10%;
+}
+
+.profile-picture{
+  width:50%;
+  margin:3px;
+}
+
+.img-we-are{
+  margin:7px;
+  border: solid #FACE7F 5px;
+  border-radius: 2%;
+}
+
+.office{
+  font-size: 1rem;
+}
+.card{
+  border: solid #FCF0C8 10px;
+  border-radius: 2%;
+  background-color: #911F27;
+  color: #FCF0C8;
+  margin:2% auto;
+  padding:3%;
+}
+.med{
+  background-color: #911F27;
+}
+.med a{
+  text-decoration: none;
+  color:#FCF0C8;
+}
+.med a:hover{
+  color:#FACE7F;
+  display: inline-block;
+}
+
+.der{
+  text-align: right;
+  display: inline-block;
+}
+
+.izq{
+  text-align: left;
+}
