@@ -1,14 +1,14 @@
 body{
   text-align: center;
-  color:#630A10;
+  color:#424C4F;
   font-size: 1.5rem;
 }
 a{
   text-decoration: none;
-  color:#630A10;
+  color:#424C4F;
 }
 a:hover{
-  color:#911F27;
+  color:#548A9C;
 }
 
 h1,h2,h3{
@@ -16,19 +16,19 @@ h1,h2,h3{
 }
 
 .barra{
-  background-color: #630A10;
-  color:#FCF0C8;
+  background-color: #424C4F;
+  color:#F0FCFF;
   height: 3%;
   font-size: 1rem;
 }
 
 .barra a{
-  color:#FCF0C8;
+  color:#F0FCFF;
   text-decoration: none;
 }
 
 .barra a:hover{
-  color:#FACE7F;
+  color:#70B8CF;
 }
 #carouselEx{
   height:100px;
@@ -53,27 +53,27 @@ h1,h2,h3{
 }
 
 .titulo{
-  background-color: #630A10;
-  color:#FCF0C8;
+  background-color: #424C4F;
+  color:#F0FCFF;
   padding: 5%;
-  border:solid #FACE7F 7px;
+  border:solid #70B8CF 7px;
   border-radius: 50px;
 }
 
 .sec-color{
-  background-color: #911F27;
-  color:#FCF0C8;
+  background-color: #548A9C;
+  color:#F0FCFF;
   padding: 3% 20%;
 }
 
 .sec-bco{
-  background-color: #FCF0C8;
-  color:#911F27;
+  background-color: #F0FCFF;
+  color:#548A9C;
   padding: 3% 15%;
 }
 
 .linea{
-  border-top: #FCF0C8  solid 10px;
+  border-top: #F0FCFF  solid 10px;
   opacity:1;
   margin:30px auto 30px auto;
   width:10%;
@@ -86,7 +86,7 @@ h1,h2,h3{
 
 .img-we-are{
   margin:7px;
-  border: solid #FACE7F 5px;
+  border: solid #70B8CF 5px;
   border-radius: 2%;
 }
 
@@ -94,22 +94,22 @@ h1,h2,h3{
   font-size: 1rem;
 }
 .card{
-  border: solid #FCF0C8 10px;
+  border: solid #F0FCFF 10px;
   border-radius: 2%;
-  background-color: #911F27;
-  color: #FCF0C8;
+  background-color: #548A9C;
+  color: #F0FCFF;
   margin:2% auto;
   padding:3%;
 }
 .med{
-  background-color: #911F27;
+  background-color: #548A9C;
 }
 .med a{
   text-decoration: none;
-  color:#FCF0C8;
+  color:#F0FCFF;
 }
 .med a:hover{
-  color:#FACE7F;
+  color:#70B8CF;
   display: inline-block;
 }
 
